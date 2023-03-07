@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(207, 216, 180);
+    background-color: rgb(180, 208, 216);
     font-size: 32px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -14,4 +14,14 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+#cabecera{
+    background-color: rgb(127, 189, 255);
+    box-shadow: inset;
+    border: solid 2px black;
+    border-radius: 150px;
+    padding: 10px;
+    color: rgb(0, 21, 128);
+    box-shadow: 10px 5px 5px rgb(0, 123, 255);
 }
